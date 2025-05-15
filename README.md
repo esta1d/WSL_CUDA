@@ -143,7 +143,7 @@ pip check
 
 ## Check if everything is installed correctly
 
-```
+```python
 python -c "import torch; import torch_tensorrt as trt; print('CUDA is available:', torch.cuda.is_available()); print('cuDNN is available:', torch.backends.cudnn.is_available()); print('Torch-TensorRT version:', trt.__version__)"
 ```
 
