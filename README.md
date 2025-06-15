@@ -1,6 +1,8 @@
 # PyTorch (CUDA) installation guide for WSL2 with cuDNN and TensorRT
 WSL and CUDA installation instructions
 
+<img src="https://images.squarespace-cdn.com/content/v1/5eb8f97b29c7c928b1fbaf3d/1713278882789-AS8NOM2MEZ9VRIEPVMPE/Cuda.png?format=500w" width="100%">
+
 ## Install WSL2
 To install specific version of WSL2 run:
 ```
